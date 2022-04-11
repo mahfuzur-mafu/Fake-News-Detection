@@ -40,9 +40,9 @@ The aim of this work is to create a system or model that can use the data of pas
 ![image](https://user-images.githubusercontent.com/63856744/162815296-9b33eecb-7fbd-477a-9ef7-fb59a0bd161f.png)
 ![image](https://user-images.githubusercontent.com/63856744/162815308-395fb337-cbf7-4922-a369-b0715ae45113.png)
 
-# Acuracy 
+# Accuracy 
 
-![image](https://user-images.githubusercontent.com/63856744/162815441-4cea689f-456d-47d3-8dbb-f8a5c9e0ba06.png)
+![image](https://user-images.githubusercontent.com/63856744/162816260-b2c6efeb-57f3-4763-9fa4-654830fff4c1.png)
 
 # Challenges
 
